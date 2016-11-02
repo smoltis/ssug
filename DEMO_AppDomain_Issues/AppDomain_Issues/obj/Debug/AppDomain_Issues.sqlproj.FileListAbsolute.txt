@@ -1,0 +1,15 @@
+D:\Profile\Documents\Presentations\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dacpac
+D:\Profile\Documents\Presentations\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dll
+D:\Profile\Documents\Presentations\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.pdb
+D:\Profile\Documents\Presentations\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.dll
+D:\Profile\Documents\Presentations\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.pdb
+I:\SOFT\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dacpac
+I:\SOFT\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dll
+I:\SOFT\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.pdb
+I:\SOFT\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.dll
+I:\SOFT\SQLCLR\AM_Demos\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.pdb
+D:\Users10\Stan\Desktop\DEMO\VS\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dacpac
+D:\Users10\Stan\Desktop\DEMO\VS\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dll
+D:\Users10\Stan\Desktop\DEMO\VS\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.pdb
+D:\Users10\Stan\Desktop\DEMO\VS\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.dll
+D:\Users10\Stan\Desktop\DEMO\VS\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.pdb

@@ -1,0 +1,10 @@
+c:\users\adam\documents\visual studio 2010\Projects\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dll
+c:\users\adam\documents\visual studio 2010\Projects\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.pdb
+c:\users\adam\documents\visual studio 2010\Projects\AppDomain_Issues\AppDomain_Issues\obj\Debug\ResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2010\Projects\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.dll
+c:\users\adam\documents\visual studio 2010\Projects\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.pdb
+C:\Users\Adam\Desktop\TechEd2013_Data_Faster\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.dll
+C:\Users\Adam\Desktop\TechEd2013_Data_Faster\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\bin\Debug\AppDomain_Issues.pdb
+C:\Users\Adam\Desktop\TechEd2013_Data_Faster\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\TechEd2013_Data_Faster\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.dll
+C:\Users\Adam\Desktop\TechEd2013_Data_Faster\01_AppDomainIssues\AppDomain_Issues\AppDomain_Issues\obj\Debug\AppDomain_Issues.pdb

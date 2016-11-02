@@ -1,0 +1,13 @@
+C:\Git\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.csprojResolveAssemblyReference.cache
+C:\Git\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.dll.config
+C:\Git\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.dll
+C:\Git\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.pdb
+C:\Git\KafkaProducer\KafkaProducer\bin\Debug\kafka-net.dll
+C:\Git\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.dll
+C:\Git\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.pdb
+I:\SQLCLR\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.dll.config
+I:\SQLCLR\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.dll
+I:\SQLCLR\KafkaProducer\KafkaProducer\bin\Debug\KafkaProducer.pdb
+I:\SQLCLR\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.csprojResolveAssemblyReference.cache
+I:\SQLCLR\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.dll
+I:\SQLCLR\KafkaProducer\KafkaProducer\obj\Debug\KafkaProducer.pdb

@@ -1,0 +1,7 @@
+D:\Users10\Stan\Desktop\DEMO\VS\ExternalSystems\ExternalSystems\obj\Debug\ExternalSystems.csprojResolveAssemblyReference.cache
+D:\Users10\Stan\Desktop\DEMO\VS\ExternalSystems\ExternalSystems\bin\Debug\ExternalSystems.dll
+D:\Users10\Stan\Desktop\DEMO\VS\ExternalSystems\ExternalSystems\bin\Debug\ExternalSystems.pdb
+D:\Users10\Stan\Desktop\DEMO\VS\ExternalSystems\ExternalSystems\bin\Debug\MindFlavor.RESP.dll
+D:\Users10\Stan\Desktop\DEMO\VS\ExternalSystems\ExternalSystems\bin\Debug\MindFlavor.RESP.pdb
+D:\Users10\Stan\Desktop\DEMO\VS\ExternalSystems\ExternalSystems\obj\Debug\ExternalSystems.dll
+D:\Users10\Stan\Desktop\DEMO\VS\ExternalSystems\ExternalSystems\obj\Debug\ExternalSystems.pdb
